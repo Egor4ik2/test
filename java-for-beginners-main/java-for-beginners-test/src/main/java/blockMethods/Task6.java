@@ -7,3 +7,4 @@ public class Task6 {
         return str;
     }
 }
+//poslat dimu nahui
