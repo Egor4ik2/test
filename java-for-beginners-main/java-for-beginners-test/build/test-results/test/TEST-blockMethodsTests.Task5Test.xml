@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="blockMethodsTests.Task5Test" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-01-06T23:09:05" hostname="DESKTOP-7DIMVMM" time="0.007">
+  <properties/>
+  <testcase name="inputIntegersToIntEx[0]([I@5ddf0d24, [I@363a52f)" classname="blockMethodsTests.Task5Test" time="0.004"/>
+  <testcase name="inputIntegersToIntEx[1]([I@3899782c, [I@1603cd68)" classname="blockMethodsTests.Task5Test" time="0.0"/>
+  <testcase name="inputIntegersToIntEx[2]([I@4b23c30a, [I@38089a5a)" classname="blockMethodsTests.Task5Test" time="0.0"/>
+  <testcase name="inputIntegersToIntEx[3]([I@66c92293, [I@332796d3)" classname="blockMethodsTests.Task5Test" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
